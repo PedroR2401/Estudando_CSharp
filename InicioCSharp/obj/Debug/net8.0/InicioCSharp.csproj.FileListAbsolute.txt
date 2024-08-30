@@ -1,0 +1,14 @@
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\bin\Debug\net8.0\InicioCSharp.exe
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\bin\Debug\net8.0\InicioCSharp.deps.json
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\bin\Debug\net8.0\InicioCSharp.runtimeconfig.json
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\bin\Debug\net8.0\InicioCSharp.dll
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\bin\Debug\net8.0\InicioCSharp.pdb
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\InicioCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\InicioCSharp.AssemblyInfoInputs.cache
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\InicioCSharp.AssemblyInfo.cs
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\InicioCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\InicioCSharp.dll
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\refint\InicioCSharp.dll
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\InicioCSharp.pdb
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\InicioCSharp.genruntimeconfig.cache
+C:\Users\Pedro Romão\source\repos\InicioCSharp\InicioCSharp\obj\Debug\net8.0\ref\InicioCSharp.dll
