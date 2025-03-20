@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InicioCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe594e84de8be8855f9f6a97acff78498a94cab2")]
 [assembly: System.Reflection.AssemblyProductAttribute("InicioCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InicioCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
